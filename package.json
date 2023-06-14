@@ -1,11 +1,15 @@
 {
   "name": "nodeserver",
   "version": "1.0.0",
-  "description": "Servidor teste pra aula",
-  "main": "index.js",
+  "description": "",
+  "main": "app.js",
   "scripts": {
-    "test": "nodemom cenoura.js"
+    "test": "nodemon app.js"
   },
-  "author": "eu",
+  "repository": {
+    "type": "git",
+    "url": "CodeSandBox"
+  },
+  "author": "me",
   "license": "ISC"
 }
