@@ -1,0 +1,11 @@
+{
+  "name": "nodeserver",
+  "version": "1.0.0",
+  "description": "Servidor teste pra aula",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemom cenoura.js"
+  },
+  "author": "eu",
+  "license": "ISC"
+}
